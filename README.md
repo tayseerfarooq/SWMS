@@ -17,5 +17,7 @@ metropolitan areas by optimizing trash management procedures and utilizing cutti
 sensor-based monitoring in conjunction with Internet of Things technology.
 
 
+All the details of the Project is present in the below report.
+
 
 (https://github.com/tayseerfarooq/SWMS/files/15503835/Main.Project.Report.Combined.pdf)
